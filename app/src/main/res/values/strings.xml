@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Avenpol</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_acercade">Acercade</string>
+    <string name="title_activity_datos_vehiculo">DatosVehiculo</string>
+    <string name="title_activity_comentarios">Comentarios</string>
+    <string name="title_activity_notificaciones">Notificaciones</string>
+    <string name="title_activity_solicitando">Solicitando</string>
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="title_activity_mapa_ruta">MapaRuta</string>
+    <string name="title_activity_comentar">Comentar</string>
+
+</resources>
