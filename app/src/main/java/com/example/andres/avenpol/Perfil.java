@@ -15,7 +15,7 @@ public class Perfil extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setContentView(R.layout.actividad_perfil);
+        /*setContentView(R.layout.actividad_perfil);*/
     }
 
 
@@ -25,6 +25,7 @@ public class Perfil extends Fragment {
 
         return inflater.inflate(R.layout.actividad_perfil, container, false);
     }
+
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
